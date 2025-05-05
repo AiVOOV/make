@@ -35,6 +35,9 @@ You'll use this value in the API Key connection field in Make.
 ## aivoov.com modules
 -  **Create Audio**
    To create audio, you need a voice ID and the transcribed text.
+   
+   ![image](https://github.com/user-attachments/assets/1e5ff10d-e462-4350-95d6-eec6a79baceb)
+
     - Output (JSON):
       ```jsonc
       {
