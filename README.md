@@ -13,7 +13,7 @@ Take a look at the [Voice List page](https://aivoov.com/voices) to see a list of
 **Note:** You need to have a AiVOOV account with Characters Credit to be able to access the API.
 
 ## Requirements
-To use the Leonardo.Ai modules, you must have a [aivoov.com](https://aivoov.com).
+To use the aivoov.com modules, you must have a [aivoov.com](https://aivoov.com).
 
 ## Obtain your API key in aivoov.com
 Follow the steps below to get your API key, which is required for accessing Aivoov's services.
